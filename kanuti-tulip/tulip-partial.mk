@@ -17,5 +17,3 @@ PRODUCT_PACKAGES += \
 	sensord \
 	sensors.tulip \
 	libbtnv \
-	sensors.tulip \
-	libbtnv
