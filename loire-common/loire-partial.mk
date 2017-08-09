@@ -137,8 +137,8 @@ PRODUCT_PACKAGES += \
 	libactuator_lc898217 \
 	libadiertac \
 	libadreno_utils \
-	libadsprpc \
 	libadsp_default_listener \
+	libadsprpc \
 	libaudcal \
 	libaudioalsa \
 	libc2d30-a3xx \
