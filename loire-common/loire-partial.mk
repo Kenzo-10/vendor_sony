@@ -13,6 +13,7 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
+	adsprpcd \
 	irsc_util \
 	mlog_qmi_service \
 	mm-qcamera-daemon \
@@ -137,6 +138,7 @@ PRODUCT_PACKAGES += \
 	libadiertac \
 	libadreno_utils \
 	libadsprpc \
+	libadsp_default_listener \
 	libaudcal \
 	libaudioalsa \
 	libc2d30-a3xx \
@@ -286,7 +288,7 @@ PRODUCT_PACKAGES += \
 	libqmi_cci \
 	libqmi_client_helper \
 	libqmi_client_qmux \
-	libqmi_common \
+	libqmi_common_so \
 	libqmi_csi \
 	libqmi_encdec \
 	libqmiservices \
